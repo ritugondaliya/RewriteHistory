@@ -2,5 +2,5 @@ const config = {
     username: "admin",
     password: "123"
 };
- 
+console.log("hello);
 module. Exports = config;
