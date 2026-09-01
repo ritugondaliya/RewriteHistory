@@ -1,0 +1,6 @@
+const config = {
+    username: "admin",
+    password: "123"
+};
+ 
+module. Exports = config;
